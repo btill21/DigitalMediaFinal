@@ -38,8 +38,7 @@ The Arduino is setup up to provide more interactivity to the game:
 ![Arduino Schematic](2463_Final/2463_Final_Diagram.jpg)
 
 
-**Video of Project**
-![Final Project Video](https://imgur.com/a/2463final-KFv1GCX)
+
 
 
 
